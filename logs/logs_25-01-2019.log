@@ -1,0 +1,32 @@
+2019-01-25 18:30:19.084 [main] INFO  library.assistant.ui.main.Main - Library Assistant launched on 25-01-2019 06:30:19 PM
+2019-01-25 18:30:28.653 [Thread-6] INFO  library.assistant.exceptions.ExceptionUtil - Already loaded tables [issue, book, member, mail_server_info]
+2019-01-25 18:30:28.668 [Thread-6] INFO  library.assistant.exceptions.ExceptionUtil - Tables are already loaded
+2019-01-25 18:31:11.526 [JavaFX Application Thread] INFO  library.assistant.ui.login.LoginController - User successfully logged in admin
+2019-01-25 18:35:02.728 [Thread-11] INFO  library.assistant.ui.main.Main - Library Assistant is closing on 25-01-2019 06:30:19 PM. Used for 1548421502725 ms
+2019-01-25 19:56:34.799 [main] INFO  library.assistant.ui.main.Main - Library Assistant launched on 25-01-2019 07:56:34 PM
+2019-01-25 19:56:44.968 [Thread-6] INFO  library.assistant.exceptions.ExceptionUtil - Already loaded tables [issue, book, member, mail_server_info]
+2019-01-25 19:56:44.984 [Thread-6] INFO  library.assistant.exceptions.ExceptionUtil - Tables are already loaded
+2019-01-25 19:56:54.631 [JavaFX Application Thread] INFO  library.assistant.ui.login.LoginController - User successfully logged in admin
+2019-01-25 19:57:48.176 [Thread-11] INFO  library.assistant.ui.main.Main - Library Assistant is closing on 25-01-2019 07:56:34 PM. Used for 1548426468174 ms
+2019-01-25 20:07:56.842 [main] INFO  library.assistant.ui.main.Main - Library Assistant launched on 25-01-2019 08:07:56 PM
+2019-01-25 20:08:02.970 [Thread-6] INFO  library.assistant.exceptions.ExceptionUtil - Already loaded tables [issue, book, member, mail_server_info]
+2019-01-25 20:08:02.984 [Thread-6] INFO  library.assistant.exceptions.ExceptionUtil - Tables are already loaded
+2019-01-25 20:08:14.112 [JavaFX Application Thread] INFO  library.assistant.ui.login.LoginController - User successfully logged in admin
+2019-01-25 20:13:50.693 [Thread-8] INFO  library.assistant.ui.main.Main - Library Assistant is closing on 25-01-2019 08:07:56 PM. Used for 1548427430691 ms
+2019-01-25 20:18:37.136 [main] INFO  library.assistant.ui.main.Main - Library Assistant launched on 25-01-2019 08:18:37 PM
+2019-01-25 20:18:42.665 [Thread-6] INFO  library.assistant.exceptions.ExceptionUtil - Already loaded tables [issue, book, member, mail_server_info]
+2019-01-25 20:18:42.679 [Thread-6] INFO  library.assistant.exceptions.ExceptionUtil - Tables are already loaded
+2019-01-25 20:18:52.892 [JavaFX Application Thread] INFO  library.assistant.ui.login.LoginController - User successfully logged in admin
+2019-01-25 20:26:56.218 [Thread-8] INFO  library.assistant.ui.main.Main - Library Assistant is closing on 25-01-2019 08:18:37 PM. Used for 1548428216218 ms
+2019-01-25 21:48:44.959 [main] INFO  library.assistant.ui.main.Main - Library Assistant launched on 25-01-2019 09:48:44 PM
+2019-01-25 21:48:53.778 [Thread-6] INFO  library.assistant.exceptions.ExceptionUtil - Already loaded tables [issue, book, member, mail_server_info]
+2019-01-25 21:48:53.801 [Thread-6] INFO  library.assistant.exceptions.ExceptionUtil - Tables are already loaded
+2019-01-25 21:49:10.438 [JavaFX Application Thread] INFO  library.assistant.ui.login.LoginController - User successfully logged in admin
+2019-01-25 23:02:31.556 [Thread-8] INFO  library.assistant.ui.main.Main - Library Assistant is closing on 25-01-2019 09:48:44 PM. Used for 1548437551495 ms
+2019-01-25 23:08:37.633 [main] INFO  library.assistant.ui.main.Main - Library Assistant launched on 25-01-2019 11:08:37 PM
+2019-01-25 23:08:46.416 [Thread-6] INFO  library.assistant.exceptions.ExceptionUtil - Already loaded tables [issue, book, member, mail_server_info]
+2019-01-25 23:08:46.433 [Thread-6] INFO  library.assistant.exceptions.ExceptionUtil - Tables are already loaded
+2019-01-25 23:09:11.984 [JavaFX Application Thread] INFO  library.assistant.ui.login.LoginController - User successfully logged in admin
+2019-01-25 23:10:37.048 [JavaFX Application Thread] INFO  library.assistant.exceptions.ExceptionUtil - null
+2019-01-25 23:10:37.049 [JavaFX Application Thread] INFO  library.assistant.exceptions.ExceptionUtil - Mail server not configured
+2019-01-25 23:12:05.096 [Thread-11] INFO  library.assistant.ui.main.Main - Library Assistant is closing on 25-01-2019 11:08:37 PM. Used for 1548438125095 ms
